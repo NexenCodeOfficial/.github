@@ -10,13 +10,19 @@
 
 We design and develop modern websites, AI-powered solutions, and digital products that help businesses succeed online.
 
-<br>
+<div align="center">
 
-[Website](https://www.nexencode.com/) •
-[Email](mailto:nexencode.official@gmail.com)
+<a href="https://yourwebsite.com" target="_blank">
+🌐 Visit Our Website
+</a>
+
+&nbsp;&nbsp; | &nbsp;&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nexencode.official@gmail.com" target="_blank">
+📧 Email Us
+</a>
 
 </div>
-
 ---
 
 ## 🚀 What We Do
