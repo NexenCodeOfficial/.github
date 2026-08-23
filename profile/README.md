@@ -15,10 +15,8 @@ We design and develop modern websites, AI-powered solutions, and digital product
 <a href="https://yourwebsite.com" target="_blank">
 🌐 Visit Our Website
 </a>
-
-&nbsp;&nbsp; | &nbsp;&nbsp;
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nexencode.official@gmail.com" target="_blank">
+&nbsp;&nbsp;&nbsp;
+<a "href="https://mail.google.com/mail/?view=cm&fs=1&to=nexencode.official@gmail.com" target="_blank">
 📧 Email Us
 </a>
 
