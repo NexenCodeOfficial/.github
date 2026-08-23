@@ -2,10 +2,6 @@
 
 <img src="Logo Green.png" width="120" />
 
-# NexenCode
-
-### Building Digital Experiences That Grow Businesses
-
 </div>
 
 # NexenCode
